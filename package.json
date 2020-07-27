@@ -1,0 +1,15 @@
+{
+  "name": "echoenv",
+  "version": "0.0.1",
+  "description": "Echo environment as API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ben West",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-prettify": "^0.1.1"
+  }
+}
